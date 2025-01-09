@@ -1,4 +1,4 @@
-# QnA-ChatBot-LangChain
+# Q-n-A ChatBot (LangChain)
 
 Acknowledgements
 ---
