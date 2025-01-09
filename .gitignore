@@ -174,4 +174,3 @@ cython_debug/
 # Custom Exceptions
 Project_Running_Details.txt
 venv/
-.env
