@@ -65,7 +65,7 @@ To create a HuggingFace access token, follow these steps :
 <br>
 
 ### **7. Running the Streamlit Application**
-To start the Streamlit application, run the following command in your terminal:
+To start the Streamlit application, run the following command in your terminal :
 ```bash
 streamlit run app.py`
 ```
